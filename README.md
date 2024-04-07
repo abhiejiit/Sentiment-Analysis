@@ -1,4 +1,4 @@
-**# Sentiment-Analysis**
+# Sentiment-Analysis
 **Overview**
 
 This repository contains the code and resources for a sentiment analysis project focused on analyzing customer reviews from the Amazon platform. The project utilizes natural language processing (NLP) techniques and machine learning algorithms to classify customer sentiments as positive, negative, or neutral based on textual data.
