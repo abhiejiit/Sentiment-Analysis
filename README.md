@@ -1,5 +1,5 @@
-# Sentiment-Analysis
-Overview
+**# Sentiment-Analysis**
+**Overview**
 
 This repository contains the code and resources for a sentiment analysis project focused on analyzing customer reviews from the Amazon platform. The project utilizes natural language processing (NLP) techniques and machine learning algorithms to classify customer sentiments as positive, negative, or neutral based on textual data.
 
@@ -17,8 +17,8 @@ _**Usage**_
 - _Model Deployment_: Implement model deployment using scripts in the src/ directory.
 
 
-  **Files**
-  - _Sentiment analysis project presentation_: Gives a detailed presentation of the project useful for understanding the project completely.
-  - _Readme file_: Highlights Key features and Usages
-  - _Amazon Review Dataset_: the project uses this dataset as the base for its computational analysis. This Dataset is sourced from **Kaggle***
-  - 
+**Files**
+- _Sentiment analysis project presentation_: Gives a detailed presentation of the project useful for understanding the project completely.
+- _Readme file_: Highlights Key features and Usages
+- _Amazon Review Dataset_: the project uses this dataset as the base for its computational analysis. This Dataset is sourced from **Kaggle***
+    
